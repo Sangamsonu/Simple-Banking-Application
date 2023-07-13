@@ -43,7 +43,9 @@ e. Implementing interest calculations and other financial features
 These enhancements would make the application more robust and feature-rich, offering a more comprehensive banking experience.
 
 
+
 In conclusion, the simple banking application project provides users with a convenient way to manage their bank accounts. Through the implementation of core banking operations and a user-friendly interface, the application serves as a practical demonstration of Java programming and object-oriented principles. The project can be extended and enhanced to create a more comprehensive and secure banking system to meet the evolving needs of users.
 
 
-![image](https://github.com/Sangamsonu/Simple-Banking-Application/assets/112076252/f2d7c1d7-81b1-444f-a9da-f23cb6a1cd81)
+![image](https://github.com/Sangamsonu/Simple-Banking-![Screenshot (276)](https://github.com/Sangamsonu/Simple-Banking-Application/assets/112076252/1dd9a8a7-63a2-42bc-8d0e-c1ff0a000192)
+Application/assets/112076252/f2d7c1d7-81b1-444f-a9da-f23cb6a1cd81)
